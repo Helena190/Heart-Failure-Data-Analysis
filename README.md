@@ -1,4 +1,4 @@
-# Heart-Failure-Data-Analysis
+# Heart Failure Data Analysis - R Project
 
 Análises estatísticas e de regressão sobre dados de pacientes com insuficiência cardíaca e grupos controle, utilizando testes de esforço cardiopulmonar para avaliar o consumo de oxigênio e suas variáveis relacionadas.
 
@@ -16,3 +16,4 @@ Análises estatísticas e de regressão sobre dados de pacientes com insuficiên
 
 ## Resultados
 Os resultados incluem a identificação de variáveis significativas que influenciam o VO2, bem como a comparação dos modelos ajustados para pacientes com insuficiência cardíaca e para um grupo controle.
+[Final_Report.pdf](https://github.com/user-attachments/files/17218402/Final_Report.pdf)
